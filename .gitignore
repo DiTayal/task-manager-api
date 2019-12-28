@@ -1,0 +1,10 @@
+node_modules
+playground
+mongodb-fetching-data.js
+mongodb-inserting-data.js
+mongodb-update.js
+mongodb.js
+avatar
+images
+config 
+# most important file to be hidden --- config
